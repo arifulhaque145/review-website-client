@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "English Basic",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "English",
+    "cost": 200,
+    "img": "https://www.englishcollege.com/sites/default/files/field/image/best_english_courses_0.jpg"
+  },
+  {
+    "id": 2,
+    "name": "English Intermediate",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "English",
+    "cost": 300,
+    "img": "https://englishlive.ef.com/blog/wp-content/uploads/sites/2/2015/05/fluency-in-5-easy-steps.jpg"
+  },
+  {
+    "id": 3,
+    "name": "English Advanced",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "English",
+    "cost": 500,
+    "img": "https://excelenglishinstitute.com/wp-content/uploads/2021/03/tips-overcoming-challenges-learning-english-1200x628-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Spanish Basic",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Spanish",
+    "cost": 200,
+    "img": "https://www.grittyspanish.com/wp-content/uploads/2019/03/Great-tools-to-learn-Spanish-today.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spanish Intermediate",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Spanish",
+    "cost": 250,
+    "img": "https://d1bvpoagx8hqbg.cloudfront.net/originals/tips-learn-spanish-eca8836418e67f6a4cab9d9ef833a43c.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Spanish Advanced",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Spanish",
+    "cost": 400,
+    "img": "https://www.theolivepress.es/wp-content/uploads/2019/12/Speaking-spanish.jpg?width=1200&enable=upscale"
+  },
+  {
+    "id": 7,
+    "name": "Turkish Basic",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Turkish",
+    "cost": 100,
+    "img": "https://img.freepik.com/free-photo/online-turkish-courses-distance-learning-concept_114106-1868.jpg?size=626&ext=jpg"
+  },
+  {
+    "id": 8,
+    "name": "Turkish Intermediate",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Turkish",
+    "cost": 150,
+    "img": "https://museatlife.files.wordpress.com/2019/03/1111-1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Turkish Advanced",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Turkish",
+    "cost": 300,
+    "img": "https://www.expat.com/upload/guide/1566223235-learning-turkish-news_item_slider-t1566223235.jpg"
+  }
+]

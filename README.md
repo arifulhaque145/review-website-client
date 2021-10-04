@@ -6,4 +6,6 @@ This is my website for language Learner [website link](https://language-learning
 
 The main features in this project is given:
 
--
+- Responsive
+- Easily Accessable
+- Informative
