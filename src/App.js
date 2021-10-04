@@ -48,10 +48,10 @@ function App() {
           </Route>
           <Route path="/feedback">
             <Home />
-            <h1 className="bg-gray-100 text-4xl uppercase text-center p-12 font-medium tracking-wide">
+            <h1 className="text-4xl uppercase text-center p-12 font-medium tracking-wide">
               Feedback
             </h1>
-            <div className="bg-gray-100">
+            <div className="">
               <p className="text-center block w-3/4 mx-auto">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                 Corrupti quis facere beatae repudiandae, ducimus ipsum
