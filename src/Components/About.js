@@ -7,7 +7,7 @@ function About() {
       <div className="flex">
         <img src={url} alt="" />
         <div className="ml-8">
-          <h1 className="text-4xl uppercase tracking-widest">Who we are?</h1>
+          <h1 className="text-4xl uppercase tracking-widest">Who we are</h1>
           <p className="text-justify mt-6">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam
             maiores consequatur vero ex illo recusandae, amet dolorum? Aperiam

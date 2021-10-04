@@ -19,7 +19,7 @@ const sectionData = [
     img: "https://d1bvpoagx8hqbg.cloudfront.net/originals/tips-learn-spanish-eca8836418e67f6a4cab9d9ef833a43c.jpg",
   },
   {
-    id: 3,
+    id: 4,
     name: "Turkish Intermediate",
     desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
     catagory: "Turkish",
