@@ -10,7 +10,7 @@ function Contact() {
         />
         <input
           type="text"
-          placeholder="Your Email"
+          placeholder="Your Subject"
           className="bg-white w-full p-4 mb-2 rounded-lg shadow-lg"
         />
         <textarea

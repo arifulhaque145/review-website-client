@@ -26,6 +26,14 @@ const sectionData = [
     cost: 150,
     img: "https://museatlife.files.wordpress.com/2019/03/1111-1.jpg",
   },
+  {
+    id: 4,
+    name: "Korean Advanced",
+    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    catagory: "Korean",
+    cost: 200,
+    img: "https://www.fluentin3months.com/wp-content/uploads/2016/01/korean-1.jpg",
+  },
 ];
 
 function ServiceSection() {
@@ -34,7 +42,7 @@ function ServiceSection() {
       <h1 className="text-4xl uppercase text-center p-12 font-medium tracking-wide">
         Our Services
       </h1>
-      <div className="grid grid-cols-3">
+      <div className="grid grid-cols-4">
         {sectionData.map((item) => (
           <Service key={item.id} data={item} />
         ))}

@@ -14,6 +14,7 @@ function Services() {
   const engData = data.filter((item) => item.catagory === "English");
   const spnData = data.filter((item) => item.catagory === "Spanish");
   const turData = data.filter((item) => item.catagory === "Turkish");
+  const korData = data.filter((item) => item.catagory === "Korean");
 
   return (
     <ServiceContainer>
@@ -35,6 +36,13 @@ function Services() {
       <br />
       <ServiceCards>
         {turData.map((item) => (
+          <Service key={item.id} data={item} />
+        ))}
+      </ServiceCards>
+      <h1>Korean Courses</h1>
+      <br />
+      <ServiceCards>
+        {korData.map((item) => (
           <Service key={item.id} data={item} />
         ))}
       </ServiceCards>

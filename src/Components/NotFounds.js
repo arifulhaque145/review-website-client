@@ -1,9 +1,10 @@
 import React from "react";
+import NotFound from "../Notfound.jpg";
 
 function NotFounds() {
   return (
-    <div>
-      <h1>404 Not Found</h1>
+    <div className="text-center p-4 w-1/2 mx-auto">
+      <img src={NotFound} alt="" srcset="" />
     </div>
   );
 }
