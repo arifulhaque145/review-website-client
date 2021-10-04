@@ -1,23 +1,27 @@
 import styled from "styled-components";
 
 export const NavContainer = styled.div`
-  padding: 20px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 `;
 
 export const Links = styled.div`
   font-weight: 400;
   text-transform: uppercase;
-  padding-top: 5px;
   a {
     list-style-type: none;
     text-decoration: none;
-    margin: 10px;
+    margin: 1em;
     &:hover {
       color: rgba(0, 0, 0, 0.5);
     }
   }
+`;
+
+// Custom Sections
+export const CustomSection = styled.div`
+  padding: 3em;
 `;
 
 // Main App Sections
@@ -44,7 +48,14 @@ export const HomeContainer = styled.div`
 export const ServiceContainer = styled.div`
   margin: 0;
   padding: 50px;
-  border: 1px solid red;
+  h1 {
+    padding-left: ${16 / 16}em;
+    border-left: ${5 / 16}em solid black;
+    margin-top: ${16 / 16}em;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    text-transform: uppercase;
+  }
 `;
 
 // Service Style
@@ -55,7 +66,5 @@ export const ServiceCards = styled.div`
 
 // Service Style
 export const ServiceCard = styled.div`
-  margin: 20px;
-  padding: 10px;
-  border: 1px solid black;
+  height: 550px;
 `;
