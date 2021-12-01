@@ -70,5 +70,29 @@
     "catagory": "Turkish",
     "cost": 300,
     "img": "https://www.expat.com/upload/guide/1566223235-learning-turkish-news_item_slider-t1566223235.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Korean Basic",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Korean",
+    "cost": 90,
+    "img": "https://mindfulbantertravel.files.wordpress.com/2019/07/learn-korean-1024x682-1.jpg?w=810"
+  },
+  {
+    "id": 11,
+    "name": "Korean Intermediate",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Korean",
+    "cost": 120,
+    "img": "https://www.90daykorean.com/wp-content/uploads/2014/12/Learn-Korean-Easy-Ways-to-Get-Started-1.png"
+  },
+  {
+    "id": 12,
+    "name": "Korean Advanced",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum labore officiis nisi vel laboriosam ducimus.",
+    "catagory": "Korean",
+    "cost": 200,
+    "img": "https://www.fluentin3months.com/wp-content/uploads/2016/01/korean-1.jpg"
   }
 ]

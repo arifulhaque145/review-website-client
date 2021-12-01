@@ -48,17 +48,19 @@ function App() {
           </Route>
           <Route path="/feedback">
             <Home />
-            <h1 className="text-4xl uppercase text-center p-12 font-medium tracking-wide">
-              Feedback
-            </h1>
-            <div className="">
-              <p className="text-center block w-3/4 mx-auto">
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Corrupti quis facere beatae repudiandae, ducimus ipsum
-                doloremque reiciendis delectus. Reprehenderit natus enim
-                obcaecati neque assumenda doloremque facere, sed eos iste
-                perspiciatis.
-              </p>
+            <div className="bg-white">
+              <h1 className="text-4xl uppercase text-center p-12 font-medium tracking-wide">
+                Feedback
+              </h1>
+              <div className="">
+                <p className="text-center block w-3/4 mx-auto">
+                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                  Corrupti quis facere beatae repudiandae, ducimus ipsum
+                  doloremque reiciendis delectus. Reprehenderit natus enim
+                  obcaecati neque assumenda doloremque facere, sed eos iste
+                  perspiciatis.
+                </p>
+              </div>
             </div>
             <CustomSection>
               <Feedback />
